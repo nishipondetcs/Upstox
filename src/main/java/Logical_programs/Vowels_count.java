@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	int Vcount=0;
 	int Concount=0;
 	int space=0;
-	
+	System.out.println("Hii");
 	System.out.println("String Length: "+L);
 	for(int i=0;i<=L-1;i++) {
 char alpha=input.charAt(i);
